@@ -1,7 +1,3 @@
-#### requirment not necessary
-
-capture package tool: Fiddler
-
 ### 1. Learn_urllib
 
 urllib: To fetch internet resources
