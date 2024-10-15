@@ -47,3 +47,4 @@ for item in result:
     writer.writerow(dic.values())
 
 f.close()
+request.close()

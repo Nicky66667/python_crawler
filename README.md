@@ -9,6 +9,7 @@ All notes and explanations can be found in `note.md`.
 
 1. **learn_urllib.py** and **learn_requests.py**  
    These scripts provide simple examples of how to request the HTML source from websites using the `urllib` and `requests` libraries.
+   - **requests_get.py** and requests_post.py give examples of get and post methods for requests library.
 
 2. **crawl_douban.py**  
    This is a practical example of web scraping from the Douban website. It demonstrates how to:
